@@ -4,62 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mohan G.C - Personal Webpage</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
-            text-align: center;
-            position: relative;
-            padding-left: 170px; /* Adjust the padding to prevent overlap */
-        }
-        header img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            border: 3px solid #fff;
-            position: absolute;
-            top: 1rem;
-            left: 1rem; /* Position image on the left side */
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background: #444;
-            padding: 0.5rem 0;
-        }
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 1rem;
-        }
-        .container {
-            padding: 2rem;
-        }
-        h1, h2 {
-            color: #444;
-        }
-        .section {
-            margin-bottom: 2rem;
-        }
-        footer {
-            background: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
